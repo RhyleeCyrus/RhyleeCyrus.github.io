@@ -2,7 +2,7 @@ html  {
     font-family: 'Open Sans', sans-serif;
     background-color: #ffffff;
 }
-h1  {
+.title  {
     text-align: center;
     ;
 }
@@ -10,20 +10,20 @@ p   {
     margin-left: 15%
 }
 .main   {
-    border-style: solid #222222;
+    border-style: solid #e0e0e0;
     margin-right: 20%;
     margin-left: 20%;
     margin-top: 15px;
-    background-color: #222222;
+    background-color: #e0e0e0;
 }
 div{
-    color: white;
+    color: black;
 }
 a {
     color: rgb(104, 132, 255);
 }
 header  {
-    font-family: 'Zen Old Mincho', serif;
+    font-family: 'Zen Old Mincho', Georgia, serif;
     font-size: 25px;
     margin-top: -25px;
     margin-bottom: -10px;
@@ -41,4 +41,11 @@ header  {
 
 hr  {
     margin-top: -30px;
+}
+.title-text {
+    text-align: center;
+}
+.about-me   {
+    padding-left: 20%;
+    padding-top: 20px;
 }
