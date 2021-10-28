@@ -2,26 +2,21 @@ html  {
     font-family: 'Open Sans', sans-serif;
     background-color: #ffffff;
 }
-.title  {
-    text-align: center;
-    ;
-}
+
 p   {
     margin-left: 15%
 }
-.main   {
-    border-style: solid #e0e0e0;
-    margin-right: 20%;
+
+#background   {
+    margin-right: 20%; /* change this to pixels, easier to work with */
     margin-left: 20%;
-    margin-top: 15px;
     background-color: #e0e0e0;
 }
-div{
-    color: black;
+
+#home:hover {
+    color: #6884FF;
 }
-a {
-    color: rgb(104, 132, 255);
-}
+
 header  {
     font-family: 'Zen Old Mincho', Georgia, serif;
     font-size: 25px;
@@ -29,6 +24,7 @@ header  {
     margin-bottom: -10px;
     color:black;
 }
+
 .title:link, .title:visited, .title:hover {
     color: black;
     text-decoration: none;
@@ -42,9 +38,11 @@ header  {
 hr  {
     margin-top: -30px;
 }
+
 .title-text {
     text-align: center;
 }
+
 .about-me   {
     padding-left: 20%;
     padding-top: 20px;
