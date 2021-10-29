@@ -4,16 +4,16 @@ html  {
 }
 .title  {
     text-align: center;
-    ;
 }
-p   {
-    margin-left: 15%
+p  {
+    margin-left: 15%;
+    line-height: 120%;
 }
 .main   {
     border-style: solid #e0e0e0;
     margin-right: 20%;
     margin-left: 20%;
-    margin-top: 15px;
+    margin-top: -19px;
     background-color: #e0e0e0;
 }
 div{
@@ -46,6 +46,10 @@ hr  {
     text-align: center;
 }
 .about-me   {
-    padding-left: 20%;
-    padding-top: 20px;
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding-top: 40px;
+}
+.main-image   {
+    padding-bottom: 40px;
 }
