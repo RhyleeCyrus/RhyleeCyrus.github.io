@@ -24,7 +24,7 @@ a {
 }
 
 #background {
-    margin-right: 20%; /* change this to pixels, easier to work with */
+    margin-right: 20%;
     margin-left: 20%;
     margin-top: -19px;
     background-color: #e0e0e0;
