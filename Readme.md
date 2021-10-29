@@ -1,2 +1,2 @@
 # Rhylee's Website
-I know
+A website to show people what I do
