@@ -1,14 +1,31 @@
-html  {
+html {
     font-family: 'Open Sans', sans-serif;
     background-color: #ffffff;
 }
 
-p  {
+p {
     margin-left: 15%;
     line-height: 120%;
 }
 
-#background   {
+header {
+    font-family: 'Zen Old Mincho', Georgia, serif;
+    font-size: 25px;
+    margin-top: -25px;
+    margin-bottom: -10px;
+    color:black;
+}
+
+hr {
+    margin-top: -30px;
+    width: 400px;
+}
+
+a {
+    color:#6884FF;
+}
+
+#background {
     margin-right: 20%; /* change this to pixels, easier to work with */
     margin-left: 20%;
     margin-top: -19px;
@@ -19,12 +36,9 @@ p  {
     color: #6884FF;
 }
 
-header  {
-    font-family: 'Zen Old Mincho', Georgia, serif;
-    font-size: 25px;
-    margin-top: -25px;
-    margin-bottom: -10px;
-    color:black;
+#pfp {
+    height: 20%;
+    width: 20%;
 }
 
 .title:link, .title:visited, .title:hover {
@@ -37,10 +51,6 @@ header  {
     text-decoration: none;
 }
 
-hr  {
-    margin-top: -30px;
-}
-
 .title-text {
     text-align: center;
 }
@@ -50,7 +60,3 @@ hr  {
     margin-bottom: 20px;
     padding-top: 40px;
 }
-
-.main-image   {
-    padding-bottom: 40px;
-  }
