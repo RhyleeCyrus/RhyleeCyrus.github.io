@@ -1,5 +1,6 @@
 html {
     font-family: 'Open Sans', sans-serif;
+    background-color: rgb(34, 34, 34);
 }
 
 p {
@@ -27,11 +28,7 @@ a {
     margin-right: 20%;
     margin-left: 20%;
     margin-top: -19px;
-    background-color: #e0e0e0;
-}
-
-#home:hover {
-    color: #6884FF;
+    background-color: #3d3d3d;
 }
 
 #pfp {
@@ -49,6 +46,6 @@ a {
 }
 
 .title:link, .title:visited, .title:hover {
-    color: black;
+    color: white;
     text-decoration: none;
 }
