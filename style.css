@@ -6,6 +6,7 @@ html {
 p {
     margin-left: 15%;
     line-height: 120%;
+    color: white;
 }
 
 header {
@@ -43,9 +44,14 @@ a {
     margin-bottom: 20px;
     padding-top: 40px;
     font-weight: bold;
+    color: white;
 }
 
 .title:link, .title:visited, .title:hover {
     color: white;
     text-decoration: none;
+}
+
+.youtube:link, .youtube:visited, .youtube:hover    {
+    color: orange;
 }
