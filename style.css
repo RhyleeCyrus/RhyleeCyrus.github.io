@@ -1,6 +1,6 @@
 html {
     font-family: 'Open Sans', sans-serif;
-    background-color: rgb(34, 34, 34);
+    background-color: #181a1b;
 }
 
 p {
@@ -26,17 +26,17 @@ a {
 }
 
 #background {
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-right: 10%;
+    margin-left: 10%;
     margin-top: -19px;
-    background-color: #3d3d3d;
+    background-color: #2A2D2F;
     border-radius: 12px;
+    padding-bottom: 20px;
 }
 
 #pfp {
     height: 194px;
     width: 194px;
-    margin-left: 15%;
     line-height: 120%;
 }
 
@@ -49,10 +49,14 @@ a {
 }
 
 .title:link, .title:visited, .title:hover {
-    color: white;
+    color: #e6e6e6;
     text-decoration: none;
 }
 
-.youtube:link, .youtube:visited, .youtube:hover    {
+.youtube:link, .youtube:visited, .youtube:hover {
     color: orange;
+}
+
+.block1 {
+    margin-left: 8%;
 }
