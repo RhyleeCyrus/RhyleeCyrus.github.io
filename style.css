@@ -25,7 +25,7 @@ a {
     color:#6884FF;
 }
 
-#background {
+#grey-square {
     margin-right: 10%;
     margin-left: 10%;
     margin-top: -19px;
@@ -42,7 +42,7 @@ a {
 
 #about-me   {
     font-size: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 1%;
     padding-top: 40px;
     font-weight: bold;
     color: white;
@@ -59,4 +59,8 @@ a {
 
 .block1 {
     margin-left: 8%;
+}
+
+#about-me2 {
+    padding-bottom: 4%;
 }
