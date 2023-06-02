@@ -30,7 +30,7 @@ a {
     margin-left: 10%;
     margin-top: -19px;
     background-color: #2A2D2F;
-    border-radius: 12px;
+    border-radius: 20px;
     padding-bottom: 20px;
 }
 
@@ -38,6 +38,7 @@ a {
     height: 194px;
     width: 194px;
     line-height: 120%;
+    padding-left: 15%;
 }
 
 #about-me   {
@@ -58,7 +59,7 @@ a {
 }
 
 .block1 {
-    margin-left: 8%;
+    margin-left: 0%;
 }
 
 #about-me2 {
