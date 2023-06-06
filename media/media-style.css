@@ -1,5 +1,9 @@
-html {
+html, body{
     background-color: #161416;
+}
+
+body {
+    background: #161416 !important;
 }
 
 .title:link, .title:visited, .title:hover {
@@ -13,7 +17,7 @@ header {
     text-align: center;
 }
 
-.title-heading  {
+.title-heading {
     border-bottom: 2px #6e6e6e solid;
     width: 400px;
     margin: auto;
@@ -41,4 +45,19 @@ header {
     font-family: 'Open Sans', sans-serif;
     color: #e6e6e6;
     font-size: 25px;
+}
+
+.widget-1   {
+    border: 1px solid white;
+    color: white;
+    border-bottom: 2px #6e6e6e solid;
+    width: 65%;
+    margin: auto;
+    margin-top: 15px;
+    padding: 0 25px 8px 25px;
+}
+
+.widget-1:link, .widget-1:visited, .widget-1:hover  {
+    color: #e6e6e6;
+    text-decoration: none;
 }
