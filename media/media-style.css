@@ -73,7 +73,7 @@ header {
     text-decoration: none;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1290px) {
     .project-title {
         font-family: 'comic sans ms';
     }
