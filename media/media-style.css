@@ -73,9 +73,9 @@ header {
     text-decoration: none;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1290px) {
     .project-title {
         font-family: 'Zen Old Mincho';
-        color: green !important;
+        color: green;
     }
   }
