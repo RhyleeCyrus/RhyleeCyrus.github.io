@@ -1,0 +1,79 @@
+body {
+    background: #161416 !important;
+    overflow-x: hidden;
+}
+
+.title:link, .title:visited, .title:hover {
+    color: #e6e6e6;
+    text-decoration: none;
+}
+
+header {
+    font-family: 'Zen Old Mincho', Georgia, serif;
+    margin-top: -25px;
+    text-align: center;
+}
+
+.name-heading {
+    border-bottom: 2px #6e6e6e solid;
+    width: 400px;
+    margin: auto;
+    margin-top: 33.5px;
+    font-size: 50px;
+    padding-bottom: 3px;
+}
+
+.projects-title {
+    border-bottom: 2px #6e6e6e solid;
+    width: 65.5%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 0 25px 8px 25px;
+}
+
+.projects-heading   {
+    font-family: 'Open Sans', sans-serif;
+    color: #e6e6e6;
+    font-size: 25px;
+}
+
+.row {
+    /* overflow-x: hidden; */
+}
+
+.video {
+    min-width: 550px;
+    margin: auto;
+    text-align: center;
+    background-color:#161416 !important;
+}
+
+.text-box {
+    min-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#161416 !important;
+}
+
+.project-text {
+    width: 500px;
+}
+
+.project-title-text {
+    font-family: 'Open Sans', sans-serif;
+    color: #e6e6e6;
+    font-size: 25px;
+    padding-bottom: 2px;
+    margin-bottom: 4px;
+    border-bottom: 2px #6e6e6e solid;
+
+}
+
+.project-body-text {
+
+}
+
+.clickable-text, .clickable-text:link, .clickable-text:visited, .clickable-text:hover {
+    color:#e6e6e6;
+    text-decoration: none;
+}
